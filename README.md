@@ -8,6 +8,8 @@
 
 Boilerplate for a React web app.
 
+_NOTE: This repo is for educational purposes. For production React apps, [Create React App](https://create-react-app.dev) is recommended._
+
 ---
 
 ### Under the Hood
